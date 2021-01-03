@@ -9,7 +9,7 @@ sys.path.append(os.path.normpath(os.path.join(SCRIPT_DIR, PACKAGE_PARENT)))
 
 from Sidebets import simulator as sim
 ###ATRIBUTES###
-iterations = 10000
+iterations = 100
 decks = 8
 end_game = 0.66
 money = 10000
